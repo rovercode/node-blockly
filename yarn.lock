@@ -1987,7 +1987,7 @@ levn@~0.3.0:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
 
-"libxmljs@github:znerol/libxmljs#xmlwriter-0.19.7":
+libxmljs@znerol/libxmljs#xmlwriter-0.19.7:
   version "0.19.7"
   resolved "https://codeload.github.com/znerol/libxmljs/tar.gz/0517e063347ea2532c9fdf38dc47878c628bf0ae"
   dependencies:
