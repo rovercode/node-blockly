@@ -1,6 +1,5 @@
 const Blockly = require('./lib/blockly_compressed');
 
-
 Blockly.setLocale = function(locale) {
   Blockly.Msg = Object.assign(locale, Blockly.Msg);
   Blockly.Msg = Blockly.Msg();
